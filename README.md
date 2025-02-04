@@ -16,3 +16,8 @@ https://cryptopond.xyz/points
 二、完成competition任务
 
 ![image](https://github.com/user-attachments/assets/bb4c9bdb-c999-453e-8ee8-d095a4877efb)
+
+三、进入页面后设置个人资料(头像，签名等）
+
+![image](https://github.com/user-attachments/assets/7ef79bb0-1d7f-415b-878a-150233d2db2f)
+
